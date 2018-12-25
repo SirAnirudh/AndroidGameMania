@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="fall2018.csc2017.games">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity
+            android:name=".SignupActivity"
+            android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SlidingTiles.SlidingTilesScreenActivity" />
+        <activity
+            android:name=".LoginActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name=".SlidingTiles.SlidingTilesActivity" />
+        <activity android:name=".GameSelectActivity" />
+        <activity android:name=".AuthenticationActivity" />
+        <activity android:name=".FinishedActivity" />
+        <activity android:name=".Hangman.HangmanActivity" />
+        <activity android:name=".Hangman.HangmanScreenActivity" />
+        <activity android:name=".Hangman.HangmanComplexityActivity" />
+        <activity android:name=".Ttt.TttActivity" />
+        <activity android:name=".SlidingTiles.SlidingTilesComplexityActivity" />
+        <activity android:name=".ComplexityActivity" />
+        <activity android:name=".Ttt.TttComplexityActivity" />
+        <activity android:name=".Ttt.TttScreenActivity" />
+        <activity android:name=".FileActivity" />
+        <activity android:name=".GameScreenActivity" />
+        <activity android:name=".GameActivity" />
+        <activity
+            android:name=".ScoreboardActivity"
+            android:label="@string/title_activity_scoreboard"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+    </application>
+
+</manifest>
