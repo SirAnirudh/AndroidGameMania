@@ -8,7 +8,7 @@ Hangman                        |  Home Screen                  | Sliding Tiles
 :------------------------------------:|:-----------------------------------:|:-----------------------------------:
 ![](/game_icons/hangman.png)  |  ![](/game_icons/homescreen.png) | ![](/game_icons/slidingtiles.png)
 
-Built in collaboration with [Anirudh Baskar](https://github.com/SirAnirudh), [Gaurav Sharma](https://github.com/GauravS99), [Mozammil Khan](https://github.com/MozammilKhan), and [Demetre Jouras](https://github.com/DemetreJou).
+Built in collaboration with [Gazi Jaring](https://github.com/gazijarin), [Gaurav Sharma](https://github.com/GauravS99), [Mozammil Khan](https://github.com/MozammilKhan), and [Demetre Jouras](https://github.com/DemetreJou).
 
 ## Getting Started
 
