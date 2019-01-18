@@ -18,7 +18,7 @@ Built in collaboration with [Anirudh Baskar](https://github.com/SirAnirudh), [Ga
 3) Under URL, paste the following project link:
 
 ```
-https://github.com/gazijarin/GameCentre.git
+https://github.com/SirAnirudh/GameCentre.git
 ```
 Click yes to proceed onto Version Control checkout.
 
